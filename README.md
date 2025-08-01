@@ -1,5 +1,7 @@
 # Data-Mining-and-Warehousing
+
 DMW Assignments 
+
 This repository will include all assignments, datasets, and visualizations related to the Data Mining and Warehousing (DMW) course.
 It will be regularly updated with:
 
